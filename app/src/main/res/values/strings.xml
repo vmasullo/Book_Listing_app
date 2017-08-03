@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista libri</string>
+    <string name="niente_internet">nessuna connessione internet</string>
+    <string name="title">Titolo</string>
+    <string name="autore">Autore libro</string>
+    <string name="editore">editore</string>
+    <string name="pagine">Numero pagine</string>
+    <string name="inserire_libro"> inserire titolo libro qui</string>
+    <string name="cerca_libro">cerca libro</string>
+    <string name="no_data_found">No data found</string>
+</resources>
